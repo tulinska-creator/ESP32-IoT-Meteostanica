@@ -3,7 +3,7 @@
 
 ## Popis projektu
 Projekt **ESP32 IoT Meteostanica** slúži na meranie teploty a vlhkosti vzduchu pomocou senzora DHT11.  
-Namerané údaje sú spracované mikrokontrolérom \ESP32, zobrazované na webovej stránke v lokálnej sieti a zároveň odosielané do cloudovej platformy ThingSpeak, kde sú vizualizované vo forme grafov.  
+Namerané údaje sú spracované mikrokontrolérom `ESP32`, zobrazované na webovej stránke v lokálnej sieti a zároveň odosielané do cloudovej platformy ThingSpeak, kde sú vizualizované vo forme grafov.  
 Projekt obsahuje aj vizuálny alarm signalizovaný LED diódou pri prekročení nastavených prahových hodnôt.
 
 ## Použitý hardvér
