@@ -64,4 +64,11 @@ Projekt demonštruje praktické využitie technológií Internetu vecí (IoT) v 
 - Arduino dokumentácia  
 - Dokumentácia ESP32  
 - Dokumentácia ThingSpeak  
-- Online návody a príklady pre ESP32 a DHT11  
+- Online návody a príklady pre ESP32 a DHT11
+
+## Online vizualizácia dát (ThingSpeak)
+
+Namerané údaje sú odosielané do platformy ThingSpeak, kde sú
+verejne dostupné vo forme grafov:
+
+🔗 https://thingspeak.com/channels/3216200
